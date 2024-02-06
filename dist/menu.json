@@ -1,0 +1,1018 @@
+[
+  {
+    "id": 1,
+    "name": "Pizza",
+    "products": [
+      {
+        "id": 101,
+        "name": "Margherita",
+        "price": 8.99,
+        "happyHourPrice": 7.99,
+        "supplements": [
+          {
+            "id": 1001,
+            "name": "Extra Cheese",
+            "price": 1.5,
+            "happyHourPrice": 1.0
+          },
+          {
+            "id": 1002,
+            "name": "Pepperoni",
+            "price": 2.0,
+            "happyHourPrice": 1.5
+          },
+          {
+            "id": 1003,
+            "name": "Olives",
+            "price": 1.0,
+            "happyHourPrice": 0.75
+          },
+          {
+            "id": 1004,
+            "name": "Mushrooms",
+            "price": 1.25,
+            "happyHourPrice": 1.0
+          },
+          {
+            "id": 1005,
+            "name": "Bell Peppers",
+            "price": 1.5,
+            "happyHourPrice": 1.25
+          },
+          { "id": 1006, "name": "Onions", "price": 1.0, "happyHourPrice": 0.75 }
+        ]
+      },
+      {
+        "id": 102,
+        "name": "Pepperoni Feast",
+        "price": 9.99,
+        "happyHourPrice": 8.99,
+        "supplements": [
+          {
+            "id": 1007,
+            "name": "Extra Cheese",
+            "price": 1.5,
+            "happyHourPrice": 1.0
+          },
+          {
+            "id": 1008,
+            "name": "Olives",
+            "price": 1.0,
+            "happyHourPrice": 0.75
+          },
+          {
+            "id": 1009,
+            "name": "Mushrooms",
+            "price": 1.25,
+            "happyHourPrice": 1.0
+          },
+          {
+            "id": 1010,
+            "name": "Green Peppers",
+            "price": 1.5,
+            "happyHourPrice": 1.25
+          },
+          {
+            "id": 1011,
+            "name": "Onions",
+            "price": 1.0,
+            "happyHourPrice": 0.75
+          },
+          {
+            "id": 1012,
+            "name": "Jalapenos",
+            "price": 1.25,
+            "happyHourPrice": 1.0
+          }
+        ]
+      },
+      {
+        "id": 103,
+        "name": "Veggie Delight",
+        "price": 10.99,
+        "happyHourPrice": 9.99,
+        "supplements": [
+          {
+            "id": 1013,
+            "name": "Extra Cheese",
+            "price": 1.5,
+            "happyHourPrice": 1.0
+          },
+          {
+            "id": 1014,
+            "name": "Olives",
+            "price": 1.0,
+            "happyHourPrice": 0.75
+          },
+          {
+            "id": 1015,
+            "name": "Mushrooms",
+            "price": 1.25,
+            "happyHourPrice": 1.0
+          },
+          {
+            "id": 1016,
+            "name": "Spinach",
+            "price": 1.5,
+            "happyHourPrice": 1.25
+          },
+          {
+            "id": 1017,
+            "name": "Onions",
+            "price": 1.0,
+            "happyHourPrice": 0.75
+          },
+          {
+            "id": 1018,
+            "name": "Tomatoes",
+            "price": 1.25,
+            "happyHourPrice": 1.0
+          }
+        ]
+      },
+      {
+        "id": 104,
+        "name": "Meat Lovers",
+        "price": 11.99,
+        "happyHourPrice": 10.99,
+        "supplements": [
+          {
+            "id": 1019,
+            "name": "Extra Cheese",
+            "price": 1.5,
+            "happyHourPrice": 1.0
+          },
+          {
+            "id": 1020,
+            "name": "Pepperoni",
+            "price": 2.0,
+            "happyHourPrice": 1.5
+          },
+          {
+            "id": 1021,
+            "name": "Sausage",
+            "price": 2.5,
+            "happyHourPrice": 2.0
+          },
+          { "id": 1022, "name": "Bacon", "price": 2.5, "happyHourPrice": 2.0 },
+          { "id": 1023, "name": "Ham", "price": 2.0, "happyHourPrice": 1.75 },
+          {
+            "id": 1024,
+            "name": "Ground Beef",
+            "price": 2.5,
+            "happyHourPrice": 2.0
+          }
+        ]
+      },
+      {
+        "id": 105,
+        "name": "Hawaiian",
+        "price": 10.49,
+        "happyHourPrice": 9.49,
+        "supplements": [
+          {
+            "id": 1025,
+            "name": "Extra Cheese",
+            "price": 1.5,
+            "happyHourPrice": 1.0
+          },
+          { "id": 1026, "name": "Ham", "price": 2.0, "happyHourPrice": 1.75 },
+          {
+            "id": 1027,
+            "name": "Pineapple",
+            "price": 1.25,
+            "happyHourPrice": 1.0
+          },
+          { "id": 1028, "name": "Bacon", "price": 2.5, "happyHourPrice": 2.0 },
+          {
+            "id": 1029,
+            "name": "Onions",
+            "price": 1.0,
+            "happyHourPrice": 0.75
+          },
+          {
+            "id": 1030,
+            "name": "Green Peppers",
+            "price": 1.5,
+            "happyHourPrice": 1.25
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Pasta",
+    "products": [
+      {
+        "id": 401,
+        "name": "Classic Spaghetti",
+        "price": 9.99,
+        "happyHourPrice": 8.99,
+        "supplements": [
+          {
+            "id": 2001,
+            "name": "Parmesan",
+            "price": 1.5,
+            "happyHourPrice": 1.25
+          },
+          {
+            "id": 2002,
+            "name": "Garlic Bread",
+            "price": 2.5,
+            "happyHourPrice": 2.0
+          },
+          {
+            "id": 2003,
+            "name": "Meatballs",
+            "price": 2.0,
+            "happyHourPrice": 1.5
+          },
+          { "id": 2004, "name": "Basil", "price": 1.25, "happyHourPrice": 1.0 },
+          {
+            "id": 2005,
+            "name": "Red Sauce",
+            "price": 1.0,
+            "happyHourPrice": 0.75
+          },
+          {
+            "id": 2006,
+            "name": "Oregano",
+            "price": 1.25,
+            "happyHourPrice": 1.0
+          }
+        ]
+      },
+      {
+        "id": 402,
+        "name": "Alfredo Fettuccine",
+        "price": 11.99,
+        "happyHourPrice": 10.99,
+        "supplements": [
+          {
+            "id": 2007,
+            "name": "Parmesan",
+            "price": 1.5,
+            "happyHourPrice": 1.25
+          },
+          {
+            "id": 2008,
+            "name": "Garlic Bread",
+            "price": 2.5,
+            "happyHourPrice": 2.0
+          },
+          {
+            "id": 2009,
+            "name": "Grilled Chicken",
+            "price": 3.0,
+            "happyHourPrice": 2.5
+          },
+          {
+            "id": 2010,
+            "name": "Broccoli",
+            "price": 1.75,
+            "happyHourPrice": 1.5
+          },
+          {
+            "id": 2011,
+            "name": "Mushrooms",
+            "price": 1.25,
+            "happyHourPrice": 1.0
+          },
+          {
+            "id": 2012,
+            "name": "Spinach",
+            "price": 1.5,
+            "happyHourPrice": 1.25
+          }
+        ]
+      },
+      {
+        "id": 403,
+        "name": "Pesto Penne",
+        "price": 10.49,
+        "happyHourPrice": 9.49,
+        "supplements": [
+          {
+            "id": 2013,
+            "name": "Parmesan",
+            "price": 1.5,
+            "happyHourPrice": 1.25
+          },
+          {
+            "id": 2014,
+            "name": "Garlic Bread",
+            "price": 2.5,
+            "happyHourPrice": 2.0
+          },
+          {
+            "id": 2015,
+            "name": "Cherry Tomatoes",
+            "price": 1.5,
+            "happyHourPrice": 1.25
+          },
+          {
+            "id": 2016,
+            "name": "Pine Nuts",
+            "price": 2.0,
+            "happyHourPrice": 1.75
+          },
+          {
+            "id": 2017,
+            "name": "Parmesan Crisps",
+            "price": 2.5,
+            "happyHourPrice": 2.0
+          },
+          { "id": 2018, "name": "Basil", "price": 1.25, "happyHourPrice": 1.0 }
+        ]
+      },
+      {
+        "id": 404,
+        "name": "Carbonara",
+        "price": 12.99,
+        "happyHourPrice": 11.99,
+        "supplements": [
+          {
+            "id": 2019,
+            "name": "Parmesan",
+            "price": 1.5,
+            "happyHourPrice": 1.25
+          },
+          {
+            "id": 2020,
+            "name": "Garlic Bread",
+            "price": 2.5,
+            "happyHourPrice": 2.0
+          },
+          { "id": 2021, "name": "Bacon", "price": 2.0, "happyHourPrice": 1.75 },
+          {
+            "id": 2022,
+            "name": "Egg Yolk",
+            "price": 1.75,
+            "happyHourPrice": 1.5
+          },
+          {
+            "id": 2023,
+            "name": "Black Pepper",
+            "price": 1.0,
+            "happyHourPrice": 0.75
+          },
+          {
+            "id": 2024,
+            "name": "Parsley",
+            "price": 1.25,
+            "happyHourPrice": 1.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Burgers",
+    "products": [
+      {
+        "id": 501,
+        "name": "Classic Cheeseburger",
+        "price": 10.99,
+        "happyHourPrice": 9.99,
+        "supplements": [
+          { "id": 3001, "name": "Bacon", "price": 1.75, "happyHourPrice": 1.5 },
+          {
+            "id": 3002,
+            "name": "Avocado",
+            "price": 2.0,
+            "happyHourPrice": 1.75
+          },
+          {
+            "id": 3003,
+            "name": "Lettuce",
+            "price": 0.75,
+            "happyHourPrice": 0.5
+          },
+          {
+            "id": 3004,
+            "name": "Tomato",
+            "price": 0.75,
+            "happyHourPrice": 0.5
+          },
+          {
+            "id": 3005,
+            "name": "Onion Rings",
+            "price": 2.5,
+            "happyHourPrice": 2.0
+          },
+          {
+            "id": 3006,
+            "name": "Pickles",
+            "price": 0.5,
+            "happyHourPrice": 0.25
+          }
+        ]
+      },
+      {
+        "id": 502,
+        "name": "BBQ Bacon Burger",
+        "price": 12.49,
+        "happyHourPrice": 11.49,
+        "supplements": [
+          {
+            "id": 3007,
+            "name": "Cheddar Cheese",
+            "price": 1.5,
+            "happyHourPrice": 1.25
+          },
+          { "id": 3008, "name": "Bacon", "price": 2.0, "happyHourPrice": 1.75 },
+          {
+            "id": 3009,
+            "name": "Onion Rings",
+            "price": 2.5,
+            "happyHourPrice": 2.0
+          },
+          {
+            "id": 3010,
+            "name": "BBQ Sauce",
+            "price": 1.5,
+            "happyHourPrice": 1.25
+          },
+          {
+            "id": 3011,
+            "name": "Lettuce",
+            "price": 0.75,
+            "happyHourPrice": 0.5
+          },
+          { "id": 3012, "name": "Tomato", "price": 0.75, "happyHourPrice": 0.5 }
+        ]
+      },
+      {
+        "id": 503,
+        "name": "Mushroom Swiss Burger",
+        "price": 11.99,
+        "happyHourPrice": 10.99,
+        "supplements": [
+          {
+            "id": 3013,
+            "name": "Swiss Cheese",
+            "price": 1.5,
+            "happyHourPrice": 1.25
+          },
+          {
+            "id": 3014,
+            "name": "Mushrooms",
+            "price": 1.25,
+            "happyHourPrice": 1.0
+          },
+          {
+            "id": 3015,
+            "name": "Onions",
+            "price": 1.0,
+            "happyHourPrice": 0.75
+          },
+          {
+            "id": 3016,
+            "name": "Lettuce",
+            "price": 0.75,
+            "happyHourPrice": 0.5
+          },
+          {
+            "id": 3017,
+            "name": "Tomato",
+            "price": 0.75,
+            "happyHourPrice": 0.5
+          },
+          {
+            "id": 3018,
+            "name": "Mayonnaise",
+            "price": 1.0,
+            "happyHourPrice": 0.75
+          }
+        ]
+      },
+      {
+        "id": 504,
+        "name": "Double Bacon Cheeseburger",
+        "price": 13.99,
+        "happyHourPrice": 12.99,
+        "supplements": [
+          { "id": 3019, "name": "Bacon", "price": 2.0, "happyHourPrice": 1.75 },
+          {
+            "id": 3020,
+            "name": "American Cheese",
+            "price": 1.5,
+            "happyHourPrice": 1.25
+          },
+          {
+            "id": 3021,
+            "name": "Ketchup",
+            "price": 0.75,
+            "happyHourPrice": 0.5
+          },
+          {
+            "id": 3022,
+            "name": "Mustard",
+            "price": 0.75,
+            "happyHourPrice": 0.5
+          },
+          {
+            "id": 3023,
+            "name": "Pickles",
+            "price": 0.5,
+            "happyHourPrice": 0.25
+          },
+          { "id": 3024, "name": "Onions", "price": 1.0, "happyHourPrice": 0.75 }
+        ]
+      },
+      {
+        "id": 505,
+        "name": "Turkey Avocado Burger",
+        "price": 11.49,
+        "happyHourPrice": 10.49,
+        "supplements": [
+          {
+            "id": 3025,
+            "name": "Avocado",
+            "price": 2.0,
+            "happyHourPrice": 1.75
+          },
+          {
+            "id": 3026,
+            "name": "Turkey Patty",
+            "price": 3.0,
+            "happyHourPrice": 2.5
+          },
+          {
+            "id": 3027,
+            "name": "Lettuce",
+            "price": 0.75,
+            "happyHourPrice": 0.5
+          },
+          {
+            "id": 3028,
+            "name": "Tomato",
+            "price": 0.75,
+            "happyHourPrice": 0.5
+          },
+          {
+            "id": 3029,
+            "name": "Swiss Cheese",
+            "price": 1.5,
+            "happyHourPrice": 1.25
+          },
+          {
+            "id": 3030,
+            "name": "Mayonnaise",
+            "price": 1.0,
+            "happyHourPrice": 0.75
+          }
+        ]
+      },
+      {
+        "id": 506,
+        "name": "Veggie Burger",
+        "price": 9.99,
+        "happyHourPrice": 8.99,
+        "supplements": [
+          {
+            "id": 3031,
+            "name": "Veggie Patty",
+            "price": 3.0,
+            "happyHourPrice": 2.5
+          },
+          {
+            "id": 3032,
+            "name": "Avocado",
+            "price": 2.0,
+            "happyHourPrice": 1.75
+          },
+          {
+            "id": 3033,
+            "name": "Lettuce",
+            "price": 0.75,
+            "happyHourPrice": 0.5
+          },
+          {
+            "id": 3034,
+            "name": "Tomato",
+            "price": 0.75,
+            "happyHourPrice": 0.5
+          },
+          {
+            "id": 3035,
+            "name": "Onions",
+            "price": 1.0,
+            "happyHourPrice": 0.75
+          },
+          {
+            "id": 3036,
+            "name": "Pickles",
+            "price": 0.5,
+            "happyHourPrice": 0.25
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Salads",
+    "products": [
+      {
+        "id": 601,
+        "name": "Caesar Salad",
+        "price": 8.99,
+        "happyHourPrice": 7.99,
+        "supplements": [
+          {
+            "id": 4001,
+            "name": "Grilled Chicken",
+            "price": 3.0,
+            "happyHourPrice": 2.5
+          },
+          {
+            "id": 4002,
+            "name": "Parmesan Cheese",
+            "price": 1.5,
+            "happyHourPrice": 1.25
+          },
+          {
+            "id": 4003,
+            "name": "Croutons",
+            "price": 1.0,
+            "happyHourPrice": 0.75
+          },
+          {
+            "id": 4004,
+            "name": "Cherry Tomatoes",
+            "price": 1.5,
+            "happyHourPrice": 1.25
+          },
+          {
+            "id": 4005,
+            "name": "Caesar Dressing",
+            "price": 1.25,
+            "happyHourPrice": 1.0
+          },
+          {
+            "id": 4006,
+            "name": "Lemon Wedges",
+            "price": 0.5,
+            "happyHourPrice": 0.25
+          }
+        ]
+      },
+      {
+        "id": 602,
+        "name": "Greek Salad",
+        "price": 9.49,
+        "happyHourPrice": 8.49,
+        "supplements": [
+          {
+            "id": 4007,
+            "name": "Feta Cheese",
+            "price": 2.0,
+            "happyHourPrice": 1.75
+          },
+          {
+            "id": 4008,
+            "name": "Kalamata Olives",
+            "price": 1.75,
+            "happyHourPrice": 1.5
+          },
+          {
+            "id": 4009,
+            "name": "Cucumbers",
+            "price": 1.0,
+            "happyHourPrice": 0.75
+          },
+          {
+            "id": 4010,
+            "name": "Cherry Tomatoes",
+            "price": 1.5,
+            "happyHourPrice": 1.25
+          },
+          {
+            "id": 4011,
+            "name": "Red Onions",
+            "price": 0.75,
+            "happyHourPrice": 0.5
+          },
+          {
+            "id": 4012,
+            "name": "Greek Dressing",
+            "price": 1.25,
+            "happyHourPrice": 1.0
+          }
+        ]
+      },
+      {
+        "id": 603,
+        "name": "Caprese Salad",
+        "price": 10.99,
+        "happyHourPrice": 9.99,
+        "supplements": [
+          {
+            "id": 4013,
+            "name": "Fresh Mozzarella",
+            "price": 2.5,
+            "happyHourPrice": 2.0
+          },
+          {
+            "id": 4014,
+            "name": "Tomato Slices",
+            "price": 1.25,
+            "happyHourPrice": 1.0
+          },
+          { "id": 4015, "name": "Basil", "price": 1.0, "happyHourPrice": 0.75 },
+          {
+            "id": 4016,
+            "name": "Balsamic Glaze",
+            "price": 1.5,
+            "happyHourPrice": 1.25
+          },
+          {
+            "id": 4017,
+            "name": "Olive Oil",
+            "price": 1.0,
+            "happyHourPrice": 0.75
+          },
+          {
+            "id": 4018,
+            "name": "Salt & Pepper",
+            "price": 0.5,
+            "happyHourPrice": 0.25
+          }
+        ]
+      },
+      {
+        "id": 604,
+        "name": "Asian Sesame Chicken Salad",
+        "price": 11.99,
+        "happyHourPrice": 10.99,
+        "supplements": [
+          {
+            "id": 4019,
+            "name": "Grilled Chicken",
+            "price": 3.0,
+            "happyHourPrice": 2.5
+          },
+          {
+            "id": 4020,
+            "name": "Mixed Greens",
+            "price": 1.5,
+            "happyHourPrice": 1.25
+          },
+          {
+            "id": 4021,
+            "name": "Mandarin Oranges",
+            "price": 1.75,
+            "happyHourPrice": 1.5
+          },
+          {
+            "id": 4022,
+            "name": "Crispy Noodles",
+            "price": 1.25,
+            "happyHourPrice": 1.0
+          },
+          {
+            "id": 4023,
+            "name": "Carrots",
+            "price": 1.0,
+            "happyHourPrice": 0.75
+          },
+          {
+            "id": 4024,
+            "name": "Asian Sesame Dressing",
+            "price": 1.5,
+            "happyHourPrice": 1.25
+          }
+        ]
+      },
+      {
+        "id": 605,
+        "name": "Mediterranean Quinoa Salad",
+        "price": 10.49,
+        "happyHourPrice": 9.49,
+        "supplements": [
+          {
+            "id": 4025,
+            "name": "Quinoa",
+            "price": 2.0,
+            "happyHourPrice": 1.75
+          },
+          {
+            "id": 4026,
+            "name": "Cucumbers",
+            "price": 1.0,
+            "happyHourPrice": 0.75
+          },
+          {
+            "id": 4027,
+            "name": "Cherry Tomatoes",
+            "price": 1.5,
+            "happyHourPrice": 1.25
+          },
+          {
+            "id": 4028,
+            "name": "Kalamata Olives",
+            "price": 1.75,
+            "happyHourPrice": 1.5
+          },
+          {
+            "id": 4029,
+            "name": "Red Bell Peppers",
+            "price": 1.0,
+            "happyHourPrice": 0.75
+          },
+          {
+            "id": 4030,
+            "name": "Lemon Vinaigrette",
+            "price": 1.25,
+            "happyHourPrice": 1.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Desserts",
+    "products": [
+      {
+        "id": 701,
+        "name": "Chocolate Lava Cake",
+        "price": 6.99,
+        "happyHourPrice": 5.99,
+        "supplements": [
+          {
+            "id": 5001,
+            "name": "Vanilla Ice Cream",
+            "price": 2.5,
+            "happyHourPrice": 2.0
+          },
+          {
+            "id": 5002,
+            "name": "Strawberries",
+            "price": 1.5,
+            "happyHourPrice": 1.25
+          },
+          {
+            "id": 5003,
+            "name": "Whipped Cream",
+            "price": 1.0,
+            "happyHourPrice": 0.75
+          },
+          {
+            "id": 5004,
+            "name": "Chocolate Sauce",
+            "price": 1.25,
+            "happyHourPrice": 1.0
+          },
+          {
+            "id": 5005,
+            "name": "Powdered Sugar",
+            "price": 0.5,
+            "happyHourPrice": 0.25
+          },
+          {
+            "id": 5006,
+            "name": "Mint Leaves",
+            "price": 0.75,
+            "happyHourPrice": 0.5
+          }
+        ]
+      },
+      {
+        "id": 702,
+        "name": "New York Cheesecake",
+        "price": 7.49,
+        "happyHourPrice": 6.49,
+        "supplements": [
+          {
+            "id": 5007,
+            "name": "Strawberry Sauce",
+            "price": 1.75,
+            "happyHourPrice": 1.5
+          },
+          {
+            "id": 5008,
+            "name": "Blueberry Compote",
+            "price": 2.0,
+            "happyHourPrice": 1.75
+          },
+          {
+            "id": 5009,
+            "name": "Whipped Cream",
+            "price": 1.0,
+            "happyHourPrice": 0.75
+          },
+          {
+            "id": 5010,
+            "name": "Graham Cracker Crust",
+            "price": 1.5,
+            "happyHourPrice": 1.25
+          },
+          {
+            "id": 5011,
+            "name": "Raspberry Drizzle",
+            "price": 1.25,
+            "happyHourPrice": 1.0
+          },
+          {
+            "id": 5012,
+            "name": "Mint Leaves",
+            "price": 0.75,
+            "happyHourPrice": 0.5
+          }
+        ]
+      },
+      {
+        "id": 703,
+        "name": "Triple Chocolate Mousse",
+        "price": 8.99,
+        "happyHourPrice": 7.99,
+        "supplements": [
+          {
+            "id": 5013,
+            "name": "Dark Chocolate Shavings",
+            "price": 2.5,
+            "happyHourPrice": 2.0
+          },
+          {
+            "id": 5014,
+            "name": "White Chocolate Drizzle",
+            "price": 1.75,
+            "happyHourPrice": 1.5
+          },
+          {
+            "id": 5015,
+            "name": "Milk Chocolate Mousse",
+            "price": 2.0,
+            "happyHourPrice": 1.75
+          },
+          {
+            "id": 5016,
+            "name": "Raspberry Sauce",
+            "price": 1.25,
+            "happyHourPrice": 1.0
+          },
+          {
+            "id": 5017,
+            "name": "Whipped Cream",
+            "price": 1.0,
+            "happyHourPrice": 0.75
+          },
+          {
+            "id": 5018,
+            "name": "Mint Leaves",
+            "price": 0.75,
+            "happyHourPrice": 0.5
+          }
+        ]
+      },
+      {
+        "id": 704,
+        "name": "Tiramisu",
+        "price": 9.49,
+        "happyHourPrice": 8.49,
+        "supplements": [
+          {
+            "id": 5019,
+            "name": "Espresso Soaked Ladyfingers",
+            "price": 2.0,
+            "happyHourPrice": 1.75
+          },
+          {
+            "id": 5020,
+            "name": "Mascarpone Cream",
+            "price": 2.5,
+            "happyHourPrice": 2.0
+          },
+          {
+            "id": 5021,
+            "name": "Cocoa Powder",
+            "price": 1.25,
+            "happyHourPrice": 1.0
+          },
+          {
+            "id": 5022,
+            "name": "Chocolate Shavings",
+            "price": 1.5,
+            "happyHourPrice": 1.25
+          },
+          {
+            "id": 5023,
+            "name": "Whipped Cream",
+            "price": 1.0,
+            "happyHourPrice": 0.75
+          },
+          {
+            "id": 5024,
+            "name": "Mint Leaves",
+            "price": 0.75,
+            "happyHourPrice": 0.5
+          }
+        ]
+      }
+    ]
+  }
+]
